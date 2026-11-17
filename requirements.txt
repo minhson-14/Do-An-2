@@ -1,0 +1,12 @@
+numpy
+opencv-python
+pyserial
+pynmea2
+pyttsx3
+SpeechRecognition
+pyaudio
+gTTS
+pygame
+requests
+anthropic
+google-genai
